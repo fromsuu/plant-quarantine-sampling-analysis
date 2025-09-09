@@ -41,6 +41,9 @@ local.properties
 results/*.txt
 results/excel-outputs/*.xlsx
 
+# Claude Code settings
+.claude/settings.local.json
+
 # OS
 .DS_Store
 .DS_Store?
